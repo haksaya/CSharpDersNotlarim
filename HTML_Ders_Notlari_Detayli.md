@@ -250,6 +250,3 @@ Tüm öğrendiklerinizi kullanarak kişisel portfolyo sayfası oluşturun. Sayfa
 - **Ekstra uygulama:** Her ders sonunda mini quiz ve kod incelemesi
 
 ---
-
-**Not:**  
-Konuları anlatırken bolca canlı kodlama ve öğrenci katılımı ile ilerleyiniz. Her bölüm sonunda öğrencilere kendi kodlarını denetletin ve sorulara zaman ayırın.
